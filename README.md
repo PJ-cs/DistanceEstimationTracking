@@ -3,4 +3,4 @@ This repository contains the source code of the paper: Distance Estimation and A
 
 ![](visualization/color_scene_live.gif)
 
-![](visualization/S01_tracked_3D_animation)
+![](visualization/S01_tracked_3D_animation.mp4)
