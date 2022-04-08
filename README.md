@@ -3,4 +3,5 @@ This repository contains the source code of the paper: Distance Estimation and A
 
 ![](visualization/color_scene_live.gif)
 
-https://raw.githubusercontent.com/PJ-cs/DistanceEstimationTracking/main/visualization/S01_tracked_3D_animation.mp4
+https://user-images.githubusercontent.com/43538742/162448834-e929763d-ffa1-410d-ac43-eac2f511cbbe.mp4
+
