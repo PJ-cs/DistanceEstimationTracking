@@ -2,7 +2,7 @@
 This repository contains the source code of the paper: Distance Estimation and Animal Tracking for Wildlife Camera Trapping, Peter Johanns, Timm Haucke, Volker Steinhage
 
 You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb).
-<a href="https://github.com/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb">
+<a href="https://colab.research.google.com/github/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
