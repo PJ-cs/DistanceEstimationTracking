@@ -1,4 +1,10 @@
-## Distance Estimation and Tracking for Wildlife Camera Trapping
+## Table of contents
+
+1. [Overview](#Distance-Estimation-and-Tracking-for-Wildlife-Camera-Trapping)
+2. [Instructions](#Instructions)
+3. [Examplary Input and Output](#Examplary-Input-and-Output)
+
+## Overview: Distance Estimation and Tracking for Wildlife Camera Trapping
 This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [arXiv paper](https://arxiv.org/abs/2202.04613)
 
 In wildlife density estimation the analysis of camera trap videos is essential for many procedures and often involves labourious, manual analysis.
