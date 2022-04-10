@@ -17,14 +17,15 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
 1. Open the Colab Notebook (a Google account is required) <a href="https://colab.research.google.com/github/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> 
 
 2. Click all the "Play" buttons at the upper left corner of each cell from top to bottom.
+![Alt text](visualization/instructions_play_button.png)
    - Colab will now install all required libraries and apply the pipeline to the input video
    - This process will take some time (~20 min) due to the installation
    - Colab will notify you, if the process is completed
 
 3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here](TODO).
+![Alt text](visualization/instructions_save_path.png)
 
-
-## Output
+## Examplary Input and Output
 S01, input video for pipeline
 ![](visualization/color_scene_live.gif)
 
