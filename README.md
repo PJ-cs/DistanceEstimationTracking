@@ -22,7 +22,8 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
    - This process will take some time (~20 min) due to the installation
    - Colab will notify you, if the process is completed
 
-3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here](TODO).
+3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here TODO](TODO).
+
 ![Alt text](visualization/instructions_save_path.png)
 
 ## Examplary Input and Output
