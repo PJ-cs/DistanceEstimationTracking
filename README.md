@@ -9,7 +9,7 @@ We propose a fully automatic approach that only requires the camera trap video a
 
 For an input video our pipeline outputs per frame the position of all visible animals in the current img, their distances to the camera in meters and the 3D position relative to the camera (x, y, z) with the camera at the center of the coordinate system. The output is saved into a csv file like [this one](S01_output/output.csv) and can be used for further processing with tabulary tools like Microsoft Excel or LibreOffice Calc, if desired.  
 
-![Alt text](visualization/output_preview.png)
+![Alt text](visualization/output_preview.PNG)
 
 ## Instructions
 We provide the possibility to try out the pipeline by yourself on an examplary input video (S01) seen below. The input image is split into single frames and stored [here](S01_color.zip)
