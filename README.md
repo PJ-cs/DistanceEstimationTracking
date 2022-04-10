@@ -1,4 +1,4 @@
-## DistanceEstimationTracking
+## Distance Estimation and Tracking for Wildlife Camera Trapping
 This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [arXiv paper](https://arxiv.org/abs/2202.04613)
 
 In wildlife density estimation the analysis of camera trap videos is essential for many procedures and often involves labourious, manual analysis.
@@ -11,7 +11,8 @@ For an input video our pipeline outputs per frame the position of all visible an
 
 
 ## Instructions
-We provide the possibility to try out the pipeline by yourself on an examplary input video (S01) seen below. 
+We provide the possibility to try out the pipeline by yourself on an examplary input video (S01) seen below. The input image is split into single frames and stored [here](S01_color.zip)
+
 You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb) <a href="https://colab.research.google.com/github/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> 
 
 1. Open the Colab Notebook (a Google account is required) <a href="https://colab.research.google.com/github/PJ-cs/DistanceEstimationTracking/blob/main/DemoDistanceEstimationTracking.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> 
@@ -22,7 +23,8 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
    - This process will take some time (~20 min) due to the installation
    - Colab will notify you, if the process is completed
 
-3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here](TODO).
+3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here TODO](TODO).
+
 ![Alt text](visualization/instructions_save_path.png)
 
 ## Examplary Input and Output
