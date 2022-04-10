@@ -7,7 +7,7 @@ Most density estimation models require the recognition of an animal in a capture
 
 We propose a fully automatic approach that only requires the camera trap video and the width of the Field Of View (FOV) in degrees of the used device. Our approach recognizes animals, calculates their distance to the camera and tracks animals across the complete video, completely automatic.
 
-For an input video our pipeline outputs per frame the position of all visible animals in the current img, their distances to the camera in meters and the 3D position relative to the camera (x, y, z) with the camera at the center of the coordinate system. The output is saved into a csv file like [this one TODO](TODO) and can be used for further processing with tabulary tools like Microsoft Excel or LibreOffice Calc, if desired.  
+For an input video our pipeline outputs per frame the position of all visible animals in the current img, their distances to the camera in meters and the 3D position relative to the camera (x, y, z) with the camera at the center of the coordinate system. The output is saved into a csv file like [this one](S01_output/output.csv) and can be used for further processing with tabulary tools like Microsoft Excel or LibreOffice Calc, if desired.  
 
 
 ## Instructions
@@ -23,7 +23,7 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
    - This process will take some time (~20 min) due to the installation
    - Colab will notify you, if the process is completed
 
-3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here TODO](TODO).
+3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here](S01_output/output.csv).
 
 ![Alt text](visualization/instructions_save_path.png)
 
