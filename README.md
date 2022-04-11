@@ -2,7 +2,8 @@
 
 1. [Overview](#Distance-Estimation-and-Tracking-for-Wildlife-Camera-Trapping)
 2. [Instructions](#Instructions)
-3. [Examplary Input and Output](#Examplary-Input-and-Output)
+3. [Custom Input](#Custom-Input)
+4. [Examplary Input and Output](#Examplary-Input-and-Output)
 
 ## Overview: Distance Estimation and Tracking for Wildlife Camera Trapping
 This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [arXiv paper](https://arxiv.org/abs/2202.04613)
@@ -33,6 +34,18 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
 3. You can find the output .csv file at the left file explorer menu under the folder inference_test/output.csv or if you can't wait that long, [here](S01_output/output.csv).
 
 ![Alt text](visualization/instructions_save_path.png)
+
+## Custom Input
+You can also upload your own files and try out the model. You can either upload single images or a complete video.
+- Single images:
+   1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.
+   2. Change ```python single_imgs = False``` to ```python single_imgs = True```
+   3. Change ```python input_frames_dir = "Images/S01_color"``` to ```python input_frames_dir = "Images/<YOUR_DIRECTORY>"```
+   4. Change ```python input_fov_deg = 89.89943662633006"``` to ```python input_fov_deg = <THE FOV in degrees of the used camera>"```
+- Videos:
+   1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.\n
+   NOTE: You have to split up the video into single .png images before uploading them to the directory!
+   2. Identical to step 3. and 4. above
 
 ## Examplary Input and Output
 S01, input video for pipeline
