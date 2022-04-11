@@ -43,7 +43,8 @@ You can also upload your own files and try out the model. You can either upload 
    3. Change ```python input_frames_dir = "Images/S01_color"``` to ```python input_frames_dir = "Images/<YOUR_DIRECTORY>"```
    4. Change ```python input_fov_deg = 89.89943662633006"``` to ```python input_fov_deg = <THE FOV in degrees of the used camera>"```
 - Videos:
-   1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.\n
+   1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.
+
    NOTE: You have to split up the video into single .png images before uploading them to the directory!
    2. Identical to step 3. and 4. above
 
