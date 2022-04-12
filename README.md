@@ -46,7 +46,8 @@ You can also upload your own files and try out the model. You can either upload 
    1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.
 
    NOTE: You have to split up the video into single .png images before uploading them to the directory!
-   2. Identical to step 3. and 4. above
+  
+   Remaining steps identical to step iii. and iv. above
 
 ## Examplary Input and Output
 S01, input video for pipeline
