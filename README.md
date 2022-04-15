@@ -39,9 +39,9 @@ You can use this [Colab notebook](https://github.com/PJ-cs/DistanceEstimationTra
 You can also upload your own files and try out the model. You can either upload single images or a complete video.
 - Single images:
    1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.
-   2. Change ```python single_imgs = False``` to ```python single_imgs = True```
-   3. Change ```python input_frames_dir = "Images/S01_color"``` to ```python input_frames_dir = "Images/<YOUR_DIRECTORY>"```
-   4. Change ```python input_fov_deg = 89.89943662633006"``` to ```python input_fov_deg = <THE FOV in degrees of the used camera>"```
+   2. Change ``` single_imgs = False``` to ``` single_imgs = True```
+   3. Change ``` input_frames_dir = "Images/S01_color"``` to ``` input_frames_dir = "Images/<YOUR_DIRECTORY>"```
+   4. Change ``` input_fov_deg = 89.89943662633006"``` to ``` input_fov_deg = <THE FOV in degrees of the used camera>"```
 - Videos:
    1. Create directory at left file explorer menu (see 3., instructions) under Images/<YOUR_DIRECTORY> and upload your files by right-clicking on the folder.
 
