@@ -6,7 +6,7 @@
 4. [Examplary Input and Output](#Examplary-Input-and-Output)
 
 ## Overview: Distance Estimation and Tracking for Wildlife Camera Trapping
-This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [arXiv paper](https://arxiv.org/abs/2202.04613)
+This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [[`arXiv`](https://arxiv.org/abs/2202.04613)] [[`Ecological Informatics`](https://doi.org/10.1016/j.ecoinf.2022.101734)]
 
 In wildlife density estimation the analysis of camera trap videos is essential for many procedures and often involves labourious, manual analysis.
 
