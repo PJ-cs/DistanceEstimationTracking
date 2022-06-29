@@ -10,7 +10,7 @@ authors:
   - family-names: Steinhage
     given-names: Volker
     orcid: https://orcid.org/0000-0002-3172-3645
-title: "Automated Distance Estimation for Wildlife Camera Trapping"
+title: "Automated distance estimation for wildlife camera trapping"
 version: 2.0
-doi: 10.48550/arXiv.2202.04613
-date-released: 2022-05-11
+doi: 10.1016/j.ecoinf.2022.101734
+date-released: 2022-06-26
