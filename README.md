@@ -4,6 +4,7 @@
 2. [Instructions](#Instructions)
 3. [Custom Input](#Custom-Input)
 4. [Examplary Input and Output](#Examplary-Input-and-Output)
+5. [Reproducibility](#Reproducibility)
 
 ## Overview: Distance Estimation and Tracking for Wildlife Camera Trapping
 This repository contains the source code of the paper "Distance Estimation and Animal Tracking for Wildlife Camera Trapping", Peter Johanns, Timm Haucke, Volker Steinhage [[`arXiv`](https://arxiv.org/abs/2202.04613)] [[`Ecological Informatics`](https://doi.org/10.1016/j.ecoinf.2022.101734)]
@@ -57,3 +58,5 @@ Pipeline output, visualized by projecting the tracks back to 3D.
 
 https://user-images.githubusercontent.com/43538742/162448834-e929763d-ffa1-410d-ac43-eac2f511cbbe.mp4
 
+## Reproducibility
+This version uses an updated [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) version. If you wish to reproduce the results of the [original publication](https://doi.org/10.1016/j.ecoinf.2022.101734), please use [tag v1.0](https://github.com/PJ-cs/DistanceEstimationTracking/tree/v1.0), which uses [MegaDetector v4.1](https://github.com/microsoft/CameraTraps/releases/tag/v4.1).
